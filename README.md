@@ -1,6 +1,6 @@
 # hello-claude-pr
 
-A tiny calculator library, created to practise openning a first pull request.
+A tiny calculator library, created to practise opening a first pull request.
 
 ## Usage
 
